@@ -1,9 +1,7 @@
 import Student from "./student";
-import {data} from './data'
 
-export default function  MainPage (){
+export default function  MainPage ({data}){
     return (
-
         data.map((person, index) =>{
             return (
                 <Student person = {person} key = {index}/>

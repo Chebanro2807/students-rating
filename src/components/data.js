@@ -1,19 +1,19 @@
 export const data = [
     {
-        id: 1,
-        photo: 'https://lms.ithillel.ua/uploads/images/885d3b77fc0d39a12aad31af709b9bd6.jpg',
-        Name: 'Антон',
-        Surname: 'Чебикін',
-        HW: '41',
-        points: '3859'
-    },
-    {
         id: 2,
         photo: 'https://lms.ithillel.ua/uploads/images/7e0475ff04937622a8aa27a8d38be520.jpg',
         Name: 'Oleksandr',
         Surname: 'Odintsov',
         HW: '43',
         points: '3852'
+    },
+    {
+        id: 1,
+        photo: 'https://lms.ithillel.ua/uploads/images/885d3b77fc0d39a12aad31af709b9bd6.jpg',
+        Name: 'Антон',
+        Surname: 'Чебикін',
+        HW: '41',
+        points: '3859'
     },
     {
         id: 3,
